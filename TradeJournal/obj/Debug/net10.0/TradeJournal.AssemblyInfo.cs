@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TradeJournal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6d392af8f806254d4b0dc2e0ffdbd55b58a4ace")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a248407cb0efa1e662d9d48ed1ea97247b60e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TradeJournal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TradeJournal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
